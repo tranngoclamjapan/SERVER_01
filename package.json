@@ -1,0 +1,18 @@
+{
+  "name": "SERVER_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-bien.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon demo_db_where_s.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12"
+  }
+}
